@@ -1,0 +1,101 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="",SIC HD
+
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvzimbo.ao/temas/tvzimbo/assets/img/logo-programacao.png" group-title="",TV ZIMBO HD
+
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player
+
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZ3hlKGSSwKPZ_eC8iCTGM14TP3fpvYpC6jN-n9Aabc_t9Qn1gs0UBGmj&s=10" group-title="",TPA 1 HD
+
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="",SIC NOTÍCIAS HD
+
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARXDEo9gOJ1zdD-COjhr6_xvSP4ag9VaYKg&usqp=CAU" group-title="",SIC INTERNACIONAL HD
+
+http://live.impresa.pt/live/sicint/sicint.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaof9dFxTf2RHEyLFVC8mO0sn8WOwot8EJoFJOYoayn-cdxTZyNK6iHfh&s=10" group-title="",PORTO CANAL HD
+
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKr_pMcw_Xu-L6A6EsFCIwos1Z8rsjL1vsw&usqp=CAU" group-title="",SOBRENATURAL TV HD
+
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="",TVI HD
+
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="",TVI 24 HD
+
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="",TVI REALITY HD
+
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/TVIInternacional2017.png" group-title="",TVI INTERNACIONAL HD
+
+https://video-auth4.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1200px-RTP1_-_Logo_2016.svg.png" group-title="",RTP 1 HD
+
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RTP2_logo_2016.png/500px-RTP2_logo_2016.png" group-title="",RTP 2 HD
+
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png" group-title="",RTP 3 HD
+
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/RTP_%C3%81frica_-_Grafismo_2016.png" group-title="",RTP ÁFRICA HD
+
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHhIINuKWQ6_urPU3TOuvL7GcRAoeIsPCdQ&usqp=CAU" group-title="",RTP INTERNACIONAL HD
+
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png" group-title="",GLOBO PORTUGAL HD
+
+http://s846397078.mialojamiento.es/w2jy/mp.php/https://gintna100.tulix.tv/gin_live/globo/79b125e476217748ee0f68bcd2552aaf/626fede8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1213px-Telemundo_logo_2018.svg.png" group-title="",TELEMUNDO HD
+
+https://h3.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=202899522&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMjozMzoyNyBQTSZoYXNoX3ZhbHVlPWJSaG1idWJoOU1BMEIyTnBkTlR0R2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1200px-Freeform_2018.svg.png" group-title="",FREEFORM HD
+
+https://h2.ustvgo.la/Freeform/myStream/chunks.m3u8?nimblesessionid=208995748&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMjo0MTo0MSBQTSZoYXNoX3ZhbHVlPW9CblNqcjRTbFc2cTRpQ2V4dWdyTmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bravo-tv-logo-9E97EDC900-seeklogo.com.png" group-title="",BRAVO HD
+
+https://h1.ustvgo.la/Bravo/myStream/chunks.m3u8?nimblesessionid=237114958&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMjo0ODowMCBQTSZoYXNoX3ZhbHVlPXg5WmFvUktmYkhqckNxbXlUL1MxYmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/300px-Nova.svg.png" group-title="",NOVA HD
+
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/9f18a10dcd8b74446cbdf68336bcb4fc0cebacf7_1651418338/geonova/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iPgUSlS-8Ku-rstol8YJp12er_yM1Im1Hg&usqp=CAU" group-title="",PRENDE LIGA MX HD
+
+https://linear-193.frequency.stream/193/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdY9EyNeNzvMmRbHwBBCcmoyk1YCIGI-Sun3DYjkucatw627EJ88gVc1P&s=10" group-title="",GULLI HD
+
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/videosd-640x360/sdindex.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="",CNN ESPANHOL HD
+
+http://209.91.213.10:8088/play/a014
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="",VE PLUS HD
+
+http://190.122.96.187:8888/http/006
