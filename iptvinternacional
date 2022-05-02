@@ -18,8 +18,8 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARXDEo9gOJ1zdD-COjhr6_xvSP4ag9VaYKg&usqp=CAU" group-title="",SIC INTERNACIONAL HD
 
-http://live.impresa.pt/live/sicint/sicint.m3u8
 
+https://c06-cdn08-oxble.xyz/globo-sp/video.m3u8?token=c30928c22cf98a67b608fda19d8a8e8a2eca5ab2-c1e1dd8fcf2f2f86ad3a3d20d2e05c88-1651456201-1651452601&remote=172.71.10.26
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaof9dFxTf2RHEyLFVC8mO0sn8WOwot8EJoFJOYoayn-cdxTZyNK6iHfh&s=10" group-title="",PORTO CANAL HD
 
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
